@@ -1,0 +1,5 @@
+if game.PlaceId == 4483381587 then
+    print('Baseplate')
+elseif game.PlaceId == 2788229376 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/g4s10r/xoxo/main/suheDHUA'%C3%A9%3Faa%3F0%22", UwU))()
+end
